@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-<p>This is a paragraph</p>
-<?php echo "This is also a Paragraph"; ?>
+<p>This is a pargraph </p>
+<?php echo "This is also a pargraph"; ?>
 
 
 </body>
