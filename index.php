@@ -6,10 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-$name = "Clayton Toney";
-?>
+<p>This is a paragraph<p>
+<?php echo "This is also a paragraph"; ?>
 
-<p>Hi my name is <?php echo $name;?> and im learning php! </p>
 </body>
 </html>
